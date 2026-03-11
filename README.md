@@ -6,7 +6,7 @@ A simple React-based Team Chat Application where users can enter their name, log
 
 ## 🚀 Live Demo
 
-https://team-chat-apps.vercel.app/
+https://new-team-chat-app.vercel.app/
 
 ## 🛠 Tech Stack
 
